@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    background-color: #F6E1C3;
+}
+
+.tegs {
+    text-align: center;
+    background-color: #E9A178;
+    height: 50px;
+    padding: 0 0 20px 0;
+    margin-bottom: 0px;
+}
+
+.bar1 {
+    padding: 5px;
+}
+
+ .left_side {
+    left: 0;
+    width: 50%;
+    display: inline-block;
+}
+
+.right_side {
+    position:absolute;
+    right: 200px;
+    top: 100px;
+    width: 30%;
+    display: inline-block;
+    
+}
+.bars {
+    display: inline-block;
+}
+
+.inputs {
+    margin: 8px;
+}
+
+#first_eye {
+    width: 100%;
+}
+
+#new_albume {
+    position: absolute;
+    padding: 10px 0 0 550px;
+    color: white;
+}
+
+#name_albume {
+    position: absolute;
+    padding: 100px 0 0 250px ;
+    font-size: 90px;
+    color: white;
+}
